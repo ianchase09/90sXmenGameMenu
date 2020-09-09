@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/XmenMainMenu.unity
+    guid: fd4a64f0001f4dc4a94a4f3779c49380
+  - enabled: 1
+    path: Assets/Scenes/XmenCharacterSelect.unity
+    guid: 092624087acc67a4cab7fa967b46523f
+  - enabled: 1
+    path: Assets/Scenes/XmenBlackScreen.unity
+    guid: 27bc5b2f41166a145be21339af26ba40
+  m_configObjects: {}
